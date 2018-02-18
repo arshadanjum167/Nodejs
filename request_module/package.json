@@ -1,0 +1,18 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "\u001b[A\u001b[B\u001b[A\u001b[C\u001b[C\u001b[B\u001b[C\u001b[C\u001b[C"
+  },
+  "dependencies": {
+    "request": "^2.83.0"
+  }
+}
